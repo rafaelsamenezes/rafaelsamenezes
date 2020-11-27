@@ -12,7 +12,7 @@ Projects that I've worked:
 [**ESBMC**](https://github.com/esbmc/esbmc) is a static analyzer for C/C++ programs.
 - [![GitHub stars](https://img.shields.io/github/stars/hbgit/map2check.svg)](https://github.com/hbgit/map2check)
 [![GitHub All Releases](https://img.shields.io/github/downloads/hbgit/map2check/total.svg)](https://github.com/hbgit/map2check/releases)
-[**ESBMC**](https://github.com/hbgit/map2check) is a dynamic analyzer for C programs.
+[**Map2Check**](https://github.com/hbgit/map2check) is a dynamic analyzer for C programs.
 
 <!--
 **rafaelsamenezes/rafaelsamenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
