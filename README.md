@@ -1,3 +1,5 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafaelsamenezes)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on https://github.com/esbmc/esbmc
