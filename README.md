@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on https://github.com/esbmc/esbmc
-- 🌱 I’m currently learning: ELF, Floats
+- 🌱 I’m currently learning: Android Bytecode Analysis
 - 💬 Ask me about: Bounded Model Checking
 - 📫 How to reach me: email: rafael.sa.menezes@outlook.com TG:@RafaelSa94
 
