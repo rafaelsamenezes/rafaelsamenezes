@@ -15,6 +15,10 @@ Projects that I've worked:
 - [![GitHub stars](https://img.shields.io/github/stars/hbgit/map2check.svg)](https://github.com/hbgit/map2check)
 [![GitHub All Releases](https://img.shields.io/github/downloads/hbgit/map2check/total.svg)](https://github.com/hbgit/map2check/releases)
 [**Map2Check**](https://github.com/hbgit/map2check) is a dynamic analyzer for C programs.
+- [![GitHub stars](https://img.shields.io/github/stars/rafaelsamenezes/jimple_parser.svg)](https://github.com/rafaelsamenezes/jimple_parser)
+[![GitHub All Releases](https://img.shields.io/github/downloads/rafaelsamenezes/jimple_parser/total.svg)](https://github.com/hbgit/map2check/releases)
+[**Jimple Parser**](https://github.com/hbgit/map2check) is a Haskell program to generate an AST from Jimple files and export them into JSON.
+
 
 <!--
 **rafaelsamenezes/rafaelsamenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
