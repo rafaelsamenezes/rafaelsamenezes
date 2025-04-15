@@ -3,9 +3,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on https://github.com/esbmc/esbmc
-- 🌱 I’m currently learning: Android Bytecode Analysis
+- 🌱 I’m currently learning: DE10-nano for hardware acelleration.
 - 💬 Ask me about: Bounded Model Checking
-- 📫 How to reach me: email: rafael.sa.menezes@outlook.com TG:@RafaelSa94
+- 📫 How to reach me: email: rafael.sa.menezes@outlook.com
 
 Projects that I've worked:
 
