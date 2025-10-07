@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on https://github.com/esbmc/esbmc
-- 🌱 I’m currently learning: DE10-nano for hardware aceleration.
+- 🌱 I’m currently learning: DE10-nano for hardware acceleration.
 - 💬 Ask me about: Software Verification
 - 📫 How to reach me: email: rafael.sa.menezes@outlook.com
 
